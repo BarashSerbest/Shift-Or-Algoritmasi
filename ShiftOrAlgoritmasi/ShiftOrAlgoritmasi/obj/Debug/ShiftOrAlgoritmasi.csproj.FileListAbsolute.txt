@@ -1,0 +1,16 @@
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\bin\Debug\ShiftOrAlgoritmasi.exe.config
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\bin\Debug\ShiftOrAlgoritmasi.exe
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\bin\Debug\ShiftOrAlgoritmasi.pdb
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.csproj.AssemblyReference.cache
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.exe
+C:\Users\const\Desktop\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.pdb
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\bin\Debug\ShiftOrAlgoritmasi.exe.config
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\bin\Debug\ShiftOrAlgoritmasi.exe
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\bin\Debug\ShiftOrAlgoritmasi.pdb
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.csproj.AssemblyReference.cache
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.exe
+C:\Users\const\Desktop\AlgoritmaAnaliziÖdev\ShiftOrAlgoritmasi\ShiftOrAlgoritmasi\obj\Debug\ShiftOrAlgoritmasi.pdb
